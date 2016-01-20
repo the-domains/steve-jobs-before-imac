@@ -1,0 +1,28 @@
+name: Steve Jobs Before iMac
+favicon: null
+layout_spectrum: 0.4782372477930039
+typography_spectrum: 0.690871596802026
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.1620857734233141
+  lightness: 0.8595982822589576
+  saturation: 0.3080993411131203
+  rhythmicContrast: 0.9720812393352389
+purpose: []
