@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Steve Jobs Before iMac]]></title>
         <description><![CDATA[Steve Jobs Before iMac]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/steve-jobs-before-imac/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jan 2016 21:31:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Jan 2016 17:16:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/steve-jobs-before-imac/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Video post.</p>]]></description>
+            <link>https://thegrid.ai/steve-jobs-before-imac/4a98d08d-facf-4e98-98bb-29d050da9c38/index.html</link>
+            <guid isPermaLink="false">4a98d08d-facf-4e98-98bb-29d050da9c38</guid>
+            <pubDate>Thu, 21 Jan 2016 17:16:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/23361138-3c97-4850-9c63-50bb218c6be5.jpg">]]></description>
-            <link>undefined72d9ddbd-1674-4bff-9627-2e57d0b3d7eb/index.html</link>
+            <link>https://thegrid.ai/steve-jobs-before-imac/72d9ddbd-1674-4bff-9627-2e57d0b3d7eb/index.html</link>
             <guid isPermaLink="false">72d9ddbd-1674-4bff-9627-2e57d0b3d7eb</guid>
             <pubDate>Wed, 20 Jan 2016 21:31:43 GMT</pubDate>
         </item>
